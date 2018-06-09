@@ -1,1 +1,1 @@
-# aula_09062018
+Este projeto exemplo de utilização do Git
